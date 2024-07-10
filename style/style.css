@@ -5,16 +5,11 @@
     padding: 0;
 }
 
-header{
-
-}   
 .banner{
-    background-image: url(../assets/Hero-bg.png);
-   
+    background-image: url(../assets/Hero-bg.png);   
 }
 .banner-pic{
     margin: 26px 570px 40px 570px;
-
 }
 .banner-content{
     width: 70%;
@@ -51,6 +46,11 @@ header{
     line-height: 23px;
     letter-spacing: 0%;
     text-align: center;
+    text-decoration: none;
+}
+.contact-btn a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 .why-wd{
     width: 80%;
@@ -79,9 +79,6 @@ header{
     letter-spacing: 0%;
     text-align: center;
     margin-bottom: 20px;
-}
-.reasons{
-
 }
 .reason1{
     display: flex;
@@ -170,7 +167,6 @@ header{
 }
 .video{
     margin-top: 40px;
-    /* box-sizing: border-box; */
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
 }
@@ -298,10 +294,10 @@ footer{
     letter-spacing: 0%;
     text-align: center;
 }
-.contact-links{
+#contact-links{
     width: 50%;
 }
-.contact-links ul{
+#contact-links ul{
     display: flex;
     list-style: none;
     margin-left: 250px;

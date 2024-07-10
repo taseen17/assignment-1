@@ -81,6 +81,7 @@ header{
     line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
+    margin-bottom: 20px;
 }
 .reasons{
 
@@ -171,4 +172,16 @@ header{
     line-height: 23px;
     letter-spacing: 0%;
     text-align: center;
+}
+.inspiration{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+.video{
+    margin-top: 40px;
+    /* box-sizing: border-box; */
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
 }

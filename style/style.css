@@ -54,3 +54,121 @@ header{
     text-align: center;
 
 }
+.why-wd{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+.title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.desc{
+    margin-top: 15px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.reasons{
+
+}
+.reason1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.reason2{
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    justify-content: flex-start;
+    margin-top: 30px;
+
+}
+.reason3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.reason-desc{
+    margin-left: 10px;
+    /* color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left; */
+}
+.reason-desc-head{
+    margin-bottom: 15px;
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.reason-desc-details{
+    margin-bottom: 15px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.reason-btn{
+    margin-right: 530px;
+    padding: 10px 16px 10px 16px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.reason-btn2{
+    margin-right: 560px;
+    padding: 10px 16px 10px 16px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
